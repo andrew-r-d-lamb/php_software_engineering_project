@@ -1,0 +1,1 @@
+a:1:{s:14:"kansas city mo";a:3:{s:6:"google";d:12;s:4:"bing";d:13.5;s:6:"blekko";d:3.5;}}

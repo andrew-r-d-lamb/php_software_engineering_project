@@ -1,0 +1,1 @@
+a:1:{s:22:"signs of a heartattack";a:3:{s:6:"google";d:14;s:4:"bing";d:13.5;s:6:"blekko";d:2.5;}}

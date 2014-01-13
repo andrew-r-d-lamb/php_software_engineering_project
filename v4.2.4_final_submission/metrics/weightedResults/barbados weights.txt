@@ -1,0 +1,1 @@
+a:1:{s:8:"barbados";a:3:{s:6:"google";d:19;s:4:"bing";d:16.5;s:6:"blekko";d:13.5;}}

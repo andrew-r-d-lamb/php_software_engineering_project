@@ -1,0 +1,1 @@
+a:1:{s:13:"hip fractures";a:3:{s:6:"google";d:17.5;s:4:"bing";d:18.5;s:6:"blekko";d:11;}}

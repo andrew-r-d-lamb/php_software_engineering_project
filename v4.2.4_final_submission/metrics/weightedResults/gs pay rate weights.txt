@@ -1,0 +1,1 @@
+a:1:{s:11:"gs pay rate";a:3:{s:6:"google";d:8;s:4:"bing";d:6.5;s:6:"blekko";d:4.5;}}

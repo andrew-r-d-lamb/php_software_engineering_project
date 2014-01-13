@@ -1,0 +1,1 @@
+a:1:{s:29:"best long term care insurance";a:3:{s:6:"google";d:16;s:4:"bing";d:16;s:6:"blekko";d:7;}}

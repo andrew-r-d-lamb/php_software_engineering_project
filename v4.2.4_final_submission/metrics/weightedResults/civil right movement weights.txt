@@ -1,0 +1,1 @@
+a:1:{s:20:"civil right movement";a:3:{s:6:"google";d:17;s:4:"bing";d:16.5;s:6:"blekko";d:10.5;}}

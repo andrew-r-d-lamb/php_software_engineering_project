@@ -1,0 +1,1 @@
+a:1:{s:11:"porterville";a:3:{s:6:"google";d:17;s:4:"bing";d:18.5;s:6:"blekko";d:13.5;}}

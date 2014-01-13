@@ -1,0 +1,1 @@
+a:1:{s:4:"figs";a:3:{s:6:"google";d:14;s:4:"bing";d:14.5;s:6:"blekko";d:2.5;}}

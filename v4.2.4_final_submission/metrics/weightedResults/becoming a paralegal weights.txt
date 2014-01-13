@@ -1,0 +1,1 @@
+a:1:{s:20:"becoming a paralegal";a:3:{s:6:"google";d:11.5;s:4:"bing";d:9;s:6:"blekko";d:3.5;}}
