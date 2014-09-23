@@ -20,7 +20,7 @@
 function getBingResults(&$results) 
 {
     //API Key
-    $acctKey = 'SW+6Or+DdEasDjYO8QqOglHbjH0t8/dr+SOUfp6vxxs';
+    $acctKey = 'account_key_goes_here';
 
     $rootUri = 'https://api.datamarket.azure.com/Bing/Search'; // Bing Root Address
     

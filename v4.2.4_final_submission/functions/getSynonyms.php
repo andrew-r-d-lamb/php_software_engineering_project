@@ -21,7 +21,7 @@
 function getSynonyms($word, &$resultsArray)
 {
     $rootUri = 'http://words.bighugelabs.com/api/2/';
-    $acctKey = 'c090d9eaf4465a2cff1a8026034c50d9';
+    $acctKey = 'account_key_goes_here';
     $query = '/' . $word . '/';
     $format = 'php';
 
@@ -30,5 +30,5 @@ function getSynonyms($word, &$resultsArray)
 
     $resultsArray = unserialize($results);
 }
-//http://words.bighugelabs.com/api/2/c090d9eaf4465a2cff1a8026034c50d9/cow/php
+//http://words.bighugelabs.com/api/2/account_key_goes_here/cow/php
 ?>

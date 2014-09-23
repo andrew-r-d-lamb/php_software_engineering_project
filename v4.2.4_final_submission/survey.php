@@ -78,7 +78,7 @@ if (isset($_REQUEST['email'])) {
         $results = "$name,$email,$q1,$q2,$q3,$q4,$q5,$q6,$q7,$q8,$q9,$q10,\n";
         
         mail(
-            "andrewlamb1081@yahoo.co.uk", "Subject: $subject",
+            "receiving_email_address_goes_here", "Subject: $subject",
             $results, "From: $email" 
         );
         

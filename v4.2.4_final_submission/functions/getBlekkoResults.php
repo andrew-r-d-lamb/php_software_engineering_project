@@ -20,7 +20,7 @@
 function getBlekkoResults(&$results) 
 {
     //API Key
-    $acctKey = 'f4c8acf3';
+    $acctKey = 'account_key_goes_here';
 
     $rootUri = 'http://blekko.com/ws/?'; //Blekko API root address
 

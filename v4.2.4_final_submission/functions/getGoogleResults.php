@@ -20,10 +20,10 @@
 function getGoogleResults(&$results) 
 {
     //API Key
-    $acctKey = 'AIzaSyDK82sUZaZjWA6Mx1Aa4nZjzMGlIwv4wHg';
+    $acctKey = 'account_key_goes_here';
 
     //Google Search Engine ID
-    $engineID = '004312006703157914957:d_vec0i0ylq'; 
+    $engineID = 'search_engine_ID_goes_here'; 
     
     //Google API basic/root address
     $rootUri = 'https://www.googleapis.com/customsearch/v1?'; 
